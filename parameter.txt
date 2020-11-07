@@ -1,0 +1,4 @@
+batch size = 20
+optimizer = adam
+learning rate = 0.01
+epoch = 50
